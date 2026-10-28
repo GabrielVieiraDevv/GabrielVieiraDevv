@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-💻 Cursando Técnico em Informática | Vila Velha - ES<br><br>🛠️ Python • C# • JavaScript • HTML/CSS • MySQL • Pacote Office<br><br>🚀 Criando projetos acadêmicos e pessoais focados em desenvolvimento de software.<br><br>📩 Entre em contato: [Seu E-mail/Link de Contato]
+💻 Cursando Técnico em Informática | Vila Velha - ES<br><br>🛠️ Python • C# • JavaScript • HTML/CSS • MySQL • Pacote Office<br><br>🚀 Criando projetos acadêmicos e pessoais focados em desenvolvimento de software.<br><br>📩 Entre em contato: devvgabrielcorreia@gmail.com
 
 
 ## 🌐 Sociais:
@@ -15,4 +15,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=GabrielVieiraDevv&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
